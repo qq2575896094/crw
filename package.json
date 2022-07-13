@@ -1,0 +1,13 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "crw": "node ./packages/crw-app/index.js"
+  },
+  "devDependencies": {
+    "lerna": "^5.1.6"
+  }
+}

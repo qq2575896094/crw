@@ -1,0 +1,30 @@
+{
+  "name": "crw-script",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "zhulei <zhulei@miaozhen.com>",
+  "homepage": "https://github.com/qq2575896094/crw#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qq2575896094/crw.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/qq2575896094/crw/issues"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cross-spawn": "^7.0.3",
+    "fs-extra": "^10.1.0"
+  }
+}
